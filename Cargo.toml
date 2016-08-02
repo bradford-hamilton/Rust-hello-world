@@ -1,0 +1,6 @@
+[package]
+name = "first-rust-app"
+version = "0.1.0"
+authors = ["Bradford Lamson-Scribner <brad.lamson@gmail.com>"]
+
+[dependencies]
